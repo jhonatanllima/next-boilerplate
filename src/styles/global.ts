@@ -15,7 +15,7 @@ const GlobalStyles = createGlobalStyle<{ theme: ThemeProps }>`
 
   body {
     transition: 0.4s;
-    font-family: font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background: ${({ theme }) => theme.background};
   }
 
