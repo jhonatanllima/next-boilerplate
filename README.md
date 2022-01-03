@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/static/v1?label=Husky&message=7.0.4&color=#4cb5f1%3CCOLOR%3E&style=plastic%3CSTYLE%3E&logo=react%3CLOGO%3E" />
 </div>
 
-<h1 align="center">iClouds - Boilerplate em NextJS</h1>
+<h1 align="center">Boilerplate em NextJS</h1>
 
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> •
@@ -85,7 +85,7 @@ Siga os passos a seguir para iniciar o projeto utilizando o boilerplate.
 ##### Criar projeto:
 
 ```bash
-  yarn create next-app -e https://github.com/iClouds-Sistemas-Web/nextjs-typescript-boilerplate-iclouds
+  yarn create next-app -e https://github.com/jhonatanllima/next-boilerplate/
 ```
 
 ##### Acesse a pasta do projeto no terminal/cmd:
