@@ -1,0 +1,27 @@
+{
+  "name": "Faço Festa",
+  "short_name": "Faço Festa",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "description": "Faço Festa é criado e pensado para democratizar a forma de fazer festa! Feito para estudo e possivelmente pode se tornar uma startup"
+}

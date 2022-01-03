@@ -1,0 +1,25 @@
+import { useState, createContext, ReactNode } from 'react';
+
+type {{pascalCase name}}Data = {
+  example: boolean;
+};
+
+type {{pascalCase name}}Props = {
+  children: ReactNode;
+};
+
+export const {{pascalCase name}} = createContext({} as {{pascalCase name}}Data);
+
+export const {{pascalCase name}}Provider = ({ children }: {{pascalCase name}}Props ) => {
+  const [example, setExample] = useState(false);
+
+  return (
+    <{{pascalCase name}}.Provider
+      value={
+        { example }
+      }
+    >
+      {children}
+    </{{pascalCase name}}.Provider>
+  );
+};
